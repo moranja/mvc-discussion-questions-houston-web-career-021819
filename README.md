@@ -20,7 +20,7 @@ Take 30 minutes to discuss the following questions with your table group.
 * You have the following form for a new blog post:
 
 ```html
-<form action="???" method="???">
+<form action="?" method="?">
 
   <label>Title</label>
   <input type="text" name="post[title]">
