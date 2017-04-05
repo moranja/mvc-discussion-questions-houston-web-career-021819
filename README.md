@@ -47,5 +47,5 @@ Take 30 minutes to discuss the following questions with your table group.
 * Where does the params hash come from?
 * What utility does the params hash provide?
 * Given the two Sinatra scenarios below how would the params hash look like (What keys will the hash contain)?
-  - Scenario #1: Sinatra route (get '/books/:name') and URL (/books/Just-for-Fun-The-Story-of-an-Accidental-Revolutionary)
-  - Scenario #2: Sinatra route (get '/search/') and URL (/search?query=Just-for-Fun-The-Story-of-an-Accidental-Revolutionary)
+  - Scenario 1: Sinatra route (get '/books/:name') and URL (/books/Just-for-Fun-The-Story-of-an-Accidental-Revolutionary)
+  - Scenario 2: Sinatra route (get '/search/') and URL (/search?query=Just-for-Fun-The-Story-of-an-Accidental-Revolutionary)
