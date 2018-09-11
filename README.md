@@ -12,7 +12,7 @@ Take 30 minutes to discuss the following questions with your table group.
 * What do you find confusing about the MVC pattern?
 
 ## Routing
-* Map the CRUD actions to the appropriatea Sinatra route to the appropriate view, if any. What kind of HTTP request is sent for each CRUD action (`GET`, `POST`, etc)
+* Map the CRUD actions to the appropriate Sinatra route to the appropriate view, if any. What kind of HTTP request is sent for each CRUD action (`GET`, `POST`, etc)
 * Let's say you have build a Sinatra app that is a blogging platform. You have a Post and an Author model and you have controllers and routes for the CRUD actions of each model. You sit down at your computer and visit www.youramazingsinatrablog.com/posts:
   - What kind of web request is this making? (i.e. is it a `GET`, `POST`, etc request?)
   - What controller action (i.e. which route in which controller) will recieve that web request?
